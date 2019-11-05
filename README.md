@@ -1,4 +1,8 @@
 # kpFinalReport
+Author: Khamphong Phomphansy
+Date: 11/05/2019
+
+
 This is the final report for Mod 6
 Pizza Supreme Blvd 
 I wanted to create a website about something I like to eat, PIZZA!! So I decided to "create" my own chain for pizza lovers!
@@ -15,3 +19,4 @@ This project will showcase how good P.S.B. is compared to other pizza franchises
 /////This is a breakdown of what the site consist of/////
 
 Please join me, and come have a pizza at Pizza Supreme Blvd!
+
