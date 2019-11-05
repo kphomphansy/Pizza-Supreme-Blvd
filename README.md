@@ -1,7 +1,7 @@
 # kpFinalReport
 Author: Khamphong Phomphansy
 Date: 11/05/2019
-
+Licensing : CC
 
 This is the final report for Mod 6
 Pizza Supreme Blvd 
